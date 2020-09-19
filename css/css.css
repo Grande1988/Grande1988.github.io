@@ -3,7 +3,7 @@ header img {
     margin-right:30px;
     margin-top: -80px;
     box-shadow:
-        0 4px 10px 0 rgba(0, 0, 0, 0.2)
+        0, 4px 10px 0 rgba(0, 0, 0, 0.2)
         0 6px 50px 0 rgba(0, 0, 0, 0.2);
 }
 
@@ -15,3 +15,12 @@ header, footer {
     font-family: Times;
     color: white;
 }
+
+main {
+    display: block;
+}
+
+section {
+    display: block;
+}
+ 
