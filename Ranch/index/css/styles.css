@@ -28,3 +28,16 @@ cows.jpg {
     float: right;
     margin-top: -100px;
 }
+
+nav {
+    background-color: #111111;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+nav {
+    display: block;
+}
+
